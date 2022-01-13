@@ -19,7 +19,7 @@ DBAU has only 2 main requirements:
 
 Once the necessary packages are installed. We can proceed to download and make DBAU operational. Run the following **line-by-line** terminal commands ***without root priviliges***:
 1. `cd /home/username` Suggest: ***Change 'username' with the name of your user folder***. If you prefer you can also use folders contained in it, the important thing is that they are accessible and editable without root permissions.
-2. `git clone https://github.com/st4ticv0id/Debian-Based-Auto-Updater.git && mv Debian-Based-Auto-Updater DBAU` or download and extract the latest version from 'Releases' section
+2. `git clone https://github.com/st4ticv0id/Debian-Based-Auto-Updater.git && mv Debian-Based-Auto-Updater DBAU` or download and extract the latest version from [Releases section](https://github.com/st4ticv0id/Debian-Based-Auto-Updater/releases).
 3. `cd DBAU`
 4. `pip3 install -r requirements.txt`
 5. `python3 DBAU.py`
