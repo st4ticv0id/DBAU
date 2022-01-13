@@ -1,6 +1,14 @@
 # Debian Based Auto-Updater
 **Debian Based Auto-Updater** (**DBAU**) is a tool developed with the aim of simplifying the automation of the ***update procedure*** of Debian based systems by making it ***totally automatic***, **without modifying system files for its operation**. It just needs four main packages (Two of them are usually out-of-box packages).
 
+The tool is tested and guaranteed for the following distributions:
+- Debian
+- Ubuntu
+- Kali Linux
+- Linux Mint
+- Parrot OS
+- Raspberry Pi OS
+
 # Installation
 DBAU has only 2 main requirements:
 1. A system based on Debian (take a look at: [Debian based distros](https://en.wikipedia.org/wiki/Category:Debian-based_distributions)) or which supports the package managers 'dpkg' and 'apt'
