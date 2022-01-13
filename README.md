@@ -1,4 +1,4 @@
-# Debian-Based-Auto-Updater
+# Debian Based Auto-Updater
 **Debian Based Auto-Updater** (**DBAU**) is a tool developed with the aim of simplifying the automation of the ***update procedure*** of Debian based systems by making it ***totally automatic***, **without modifying system files for its operation**. It just needs four main packages (Two of them are usually out-of-box packages).
 
 # Installation
@@ -11,7 +11,7 @@ DBAU has only 2 main requirements:
 
 Once the necessary packages are installed. We can proceed to download and make DBAU operational. Run the following **line-by-line** terminal commands ***without root priviliges***:
 1. `cd /home/username` Suggest: If you prefer you can also use folders contained in it, the important thing is that they are accessible and editable without root permissions.
-2. `git clone INSERISCI QUI LINK`
+2. `git clone https://github.com/st4ticv0id/DBAU.git`
 3. `cd DBAU`
 4. `pip3 install -r requirements.txt`
 5. `python3 DBAU.py`
