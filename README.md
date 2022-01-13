@@ -1,4 +1,4 @@
-# Debian-Based-Auto-Updater
+# Debian Based Auto-Updater
 **Debian Based Auto-Updater** (**DBAU**) is a tool developed with the aim of simplifying the automation of the ***update procedure*** of Debian based systems by making it ***totally automatic***, **without modifying system files for its operation**. It just needs four main packages (Two of them are usually out-of-box packages).
 
 # Installation
