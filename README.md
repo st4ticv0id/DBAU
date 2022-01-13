@@ -11,11 +11,11 @@ The tool is tested and guaranteed for the following distributions:
 
 # Installation
 DBAU has only 2 main requirements:
-1. A system based on Debian (take a look at: [Debian based distros](https://en.wikipedia.org/wiki/Category:Debian-based_distributions)) or which supports the package managers 'dpkg' and 'apt'
+1. A system based on Debian (take a look at: [Debian based distros](https://en.wikipedia.org/wiki/Category:Debian-based_distributions)) or which supports the package managers 'dpkg' and 'apt'.
 2. Four packages:
    - sudo (usually self-installed in many distributions), to elevate privileges during updating process. Run `apt-get install sudo` to install it;
    - cron (usually self-installed in many distributions), to automate the execution of the tool. This package can be installed automatically by DBAU or run `apt-get install cron` if you prefer to do it by yourself;
-   - python3 and python3-pip, required to run the tool and download/install the required python modules. Run `apt-get install python3 python3-pip` to install them;
+   - python3 and python3-pip, required to run the tool and download/install the required python modules. Run `apt-get install python3 python3-pip` to install them.
 
 Once the necessary packages are installed. We can proceed to download and make DBAU operational. Run the following **line-by-line** terminal commands ***without root priviliges***:
 1. `cd /home/username` Suggest: ***Change 'username' with the name of your user folder***. If you prefer you can also use folders contained in it, the important thing is that they are accessible and editable without root permissions.
