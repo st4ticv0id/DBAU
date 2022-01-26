@@ -27,7 +27,7 @@ Once the necessary packages are installed. We can proceed to download and make D
 And It's done.
 
 # Usage
-If you want a list of topics to use, type: `python3 DBAU.py -h` or `python3 DBAU.py --help`
+If you want a list of arguments to use, type: `python3 DBAU.py -h` or `python3 DBAU.py --help`
 
 # Troubleshooting
 Please, for any problem don't hesitate to let me know via the issue section of the repository. The only thing you need to do is go to the 'logs' folder inside the DBAU folder, find the file with the error output and attach the file or paste its contents. I apologize from now on for any problems.
